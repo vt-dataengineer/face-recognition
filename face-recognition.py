@@ -35,14 +35,4 @@ while True:
 # release the webcam
 webcam.release()
 
-
-    
-
-   
-
-#print(face_coordinates)
-# show the image
-# cv2.imshow('CR7', img)
-# cv2.waitKey()
-
 print('Code Completed')    
